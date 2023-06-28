@@ -1,0 +1,10 @@
+.landing {
+
+    background-attachment: fixed;
+    background-image: url(../public/images/eugene-chystiakov-vBZDqBPpVvI-unsplash.jpg);
+    background-size: 40%;
+    background-repeat: true;
+    height: 100vh;
+    margin: auto;
+    color: antiquewhite;
+}
